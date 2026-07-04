@@ -7,7 +7,7 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
-    background: grey;
+    background: #663399;
     color: white;
     padding: 15px;
 }
